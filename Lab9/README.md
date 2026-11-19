@@ -1,8 +1,8 @@
 # Lab 9: Tables with Headers and Footers
 
-**Name:** Priyanshu Yadav  
-**Roll No:** 2410303363  
-**Student ID:** BCS2024318  
+**Name:** SHREY  
+**Roll No:** 2410303477
+**Student ID:** BCS2024331  
 **Course:** B.Tech CSE (3rd Year) - HTML & CSS Development Lab (BCS554)
 
 ## Aim
