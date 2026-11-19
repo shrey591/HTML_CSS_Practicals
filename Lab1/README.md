@@ -29,7 +29,7 @@ Start a Git repository for your lab folder and save your work with commits.
 ```bash
 mkdir html-lab && cd html-lab
 git init
-git config --local user.name "Priyanshu Yadav"
+git config --local user.name "SHREY"
 git config --local user.email "you@example.com"
 git config user.name
 git config user.email
